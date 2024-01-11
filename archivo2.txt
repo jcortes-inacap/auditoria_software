@@ -1,2 +1,0 @@
-ejemplo de git y sus comandos
-realizando mas modificaciones al archivo
